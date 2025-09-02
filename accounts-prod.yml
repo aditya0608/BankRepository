@@ -6,5 +6,5 @@ accounts:
   contact:
     email: "{cipher}b88d5d9cac9b226d0737878b511f10f4d3d1a606e4b6530abd57dca1ea836ea207ec53bfcf81c9b02b2ce44d4e4972f3"
   phoneNumbers:
-    - 90900909-PROD
-    - 99879890-PROD
+    - 90900909-PRODUCTION
+    - 99879890-PRODUCTION
