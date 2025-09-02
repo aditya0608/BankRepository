@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Hello customer from PRODuction"
+  message: "Hello customer from PRODuction WEBHOOK"
   contact:
     email: "{cipher}b88d5d9cac9b226d0737878b511f10f4d3d1a606e4b6530abd57dca1ea836ea207ec53bfcf81c9b02b2ce44d4e4972f3"
   phoneNumbers:
