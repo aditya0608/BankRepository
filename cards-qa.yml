@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 cards:
-  message: "Hello customer from QA CARDS CONFIG"
+  message: "Hello customer from QA CARDS CONFIG refresh spring cloud"
   contact:
     email: "aditya.cm60@gmail.com-QA CARDS CONFIG"
   phoneNumbers:
